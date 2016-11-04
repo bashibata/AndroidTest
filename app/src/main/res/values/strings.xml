@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Criminallntent</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_setting">Setting</string>
+    <string name="crime_title_hint">Enter a title for the crime.</string>
+
+</resources>
